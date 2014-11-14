@@ -15,3 +15,7 @@ A javascript project to view and download pdf and image files with bootstrap plu
  * 3. Define two attributes a) data-filename : file name  b) data-filepath: file realtive path 
  *  and  you are done 
  */
+
+Demo :sample preview
+
+http://eventsinbox.com/Jquery-Fileviewer/index.html
